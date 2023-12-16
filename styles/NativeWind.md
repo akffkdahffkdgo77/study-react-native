@@ -28,30 +28,47 @@ npx tailwindcss init
 npm run start를 했을 때 에러가 발생한다면...
 
 ```
+
 npm install tailwindcss@3.3.2 --save-dev
+
+```
+
+### TypeScript
+최상단에 declarations.d.ts 파일 생서
+
+```
+
+/// <reference types="nativewind/types" />
+
 ```
 
 ### tailwind.config.js
 content 수정
 
 ```
+
 content: ["./App.{js,jsx,ts,tsx}", "./src/**/*.{js,jsx,ts,tsx}"],
+
 ```
 
 ### babel.config.js
 plugin 수정
 
 ```
+
 plugins: ["nativewind/babel"]
+
 ```
 
 ### index.css 파일 추가
 src/styles에 index.css 파일 생성
 
 ```
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
 ```
 
 ### postcss.config.js
@@ -59,6 +76,7 @@ npm install --save-dev postcss autoprefixer
 postcss.config.js 파일 생성
 
 ```
+
 module.exports = {
   plugins: [require("tailwindcss"), [require("nativewind/postcss")]],
 };
@@ -94,7 +112,8 @@ module.exports = {
 ```
 // index.js
 
-import "./nativewind-output"
+import "./nativewind-output";
+
 ```
 
 ```
