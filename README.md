@@ -14,16 +14,17 @@ npm 사용
 ### Component
 - [x] [React Native Modal](https://github.com/akffkdahffkdgo77/study-react-native/blob/main/components/ReactNativeModal.md)
 - [x] [React Native Bottom Sheet](https://github.com/akffkdahffkdgo77/study-react-native/blob/main/components/ReactNativeBottomSheet.md)
-- [ ] React Native Webview
-- [ ] React Native Reanimated Carousel
-- [ ] React Native Linear Gradient
-- [ ] React Native Range Slider
+- [x] [React Native Webview](https://github.com/akffkdahffkdgo77/study-react-native/blob/main/components/ReactNativeWebview.md)
+- [x] [React Native Reanimated Carousel](https://github.com/akffkdahffkdgo77/study-react-native/blob/main/components/ReactNativeReanimatedCarousel.md)
+- [x] [React Native Linear Gradient](https://github.com/akffkdahffkdgo77/study-react-native/blob/main/components/ReactNativeLinearGradient.md)
+- [x] [React Native Range Slider](https://github.com/akffkdahffkdgo77/study-react-native/blob/main/components/ReactNativeSlider.md)
 
 ### Navigation
--  [ ] React Navigation
+-  [x] [React Navigation](https://github.com/akffkdahffkdgo77/study-react-native/blob/main/navigation/ReactNavigation.md)
 
 ### Utilities
--  [ ] React Native Netinfo
+-  [x] [React Native Netinfo](https://github.com/akffkdahffkdgo77/study-react-native/blob/main/utilities/ReactNativeNetInfo.md)
+-  [x] [React Native Permissions](https://github.com/akffkdahffkdgo77/study-react-native/blob/main/utilities/ReactNativePermissions.md)
 
 ### Styling
 - [x] [NativeWind](https://github.com/akffkdahffkdgo77/study-react-native/blob/main/styles/NativeWind.md)
