@@ -18,6 +18,7 @@ npm 사용
 - [x] [React Native Reanimated Carousel](https://github.com/akffkdahffkdgo77/study-react-native/blob/main/components/ReactNativeReanimatedCarousel.md)
 - [x] [React Native Linear Gradient](https://github.com/akffkdahffkdgo77/study-react-native/blob/main/components/ReactNativeLinearGradient.md)
 - [x] [React Native Range Slider](https://github.com/akffkdahffkdgo77/study-react-native/blob/main/components/ReactNativeSlider.md)
+- [x] [React Native Image Picker](https://github.com/akffkdahffkdgo77/study-react-native/blob/main/components/ReactNativeImagePicker.md)
 
 ### Navigation
 -  [x] [React Navigation](https://github.com/akffkdahffkdgo77/study-react-native/blob/main/navigation/ReactNavigation.md)
