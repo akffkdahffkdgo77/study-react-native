@@ -1,13 +1,9 @@
-# Study React Native
-
-2023-12-04 ~ 2024-01-31
-
-차기 RN 프로젝트에서 사용할 라이브러리 정리
+<img src="https://capsule-render.vercel.app/api?section=header&type=waving&height=300&text=Study%20React%20Native&color=timeGradient&fontSize=90" alt="" />
 
 ## Version
-react-native v0.72.7   
-node v18   
-npm 사용
+**react-native** v0.72.7   
+**node** v18   
+**npm** 사용
 
 ## TIL
 
