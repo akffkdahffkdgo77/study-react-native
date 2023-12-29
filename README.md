@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?section=header&type=waving&height=300&text=Study%20React%20Native&color=timeGradient&fontSize=90" alt="" />
+<img src="https://capsule-render.vercel.app/api?section=header&type=waving&height=300&text=Study%20React%20Native&color=gradient&fontSize=90&animation=fadeIn" alt="" />
 
 ## Version
 **react-native** v0.72.7   
-**node** v18   
+**node** v18.17.1   
 **npm** 사용
 
 ## TIL
