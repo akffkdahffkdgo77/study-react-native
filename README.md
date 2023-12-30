@@ -1,5 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?section=header&type=waving&height=300&text=Study%20React%20Native&color=gradient&fontSize=90&animation=fadeIn" alt="" />
 
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+
 ## Version
 **react-native** v0.72.7   
 **node** v18.17.1   
